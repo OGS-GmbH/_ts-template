@@ -28,10 +28,11 @@ export default defineConfig(
     ignores: [
       ".git",
       ".husky",
+      ".vscode",
+      ".idea",
       "node_modules",
       "dist",
-      ".vitepress/.vitepress/cache",
-      "CODE_OF_CONDUCT.md"
+      ".vitepress/.vitepress/cache"
     ]
   },
   {
