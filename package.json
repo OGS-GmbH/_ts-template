@@ -32,7 +32,7 @@
       "default": "./public-api.mjs"
     }
   },
-  "repository": "github:OGS-GmbH/_ts-template",
+  "repository": "https://github.com/OGS-GmbH/_ts-template",
   "type": "module",
   "scripts": {
     "ci:build:main:production": "node .esbuild/build.mjs",
